@@ -1,7 +1,17 @@
-This is the project repo for the final project of the Udacity Self-Driving Car Nanodegree: Programming a Real Self-Driving Car. This is a collaboration between four team members:
+# System Integrations Capstone Project
 
+Self-Driving Car Engineer Nanodegree Program
+
+---
+
+## Introduction
+In a group of four students we wrote ROS nodes to implement core functionality of the autonomous vehicle system for driving on a real track and in the udacity simulator, including traffic light detection, control, and waypoint following.
+
+![VideoSimulation](./VideoSimulation.gif) 
 
 ## The Team
+This is the project repo for the final project of the Udacity Self-Driving Car Nanodegree: Programming a Real Self-Driving Car. This is a collaboration between four team members:
+
 
 |     Role      |      Name      |    Location   |     Email   |
 |---------------|----------------|---------------|-------------|
@@ -65,6 +75,10 @@ Real track model:
 1. Bosch Traffic Lights Dataset 
 2. Real track images provided by the rosbag video
 
+Please notice that the trained models are NOT included this repro! 
+
+
+# Udacity Part
 
 ## Native Installation and Usage
 
