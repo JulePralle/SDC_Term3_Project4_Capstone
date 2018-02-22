@@ -7,7 +7,9 @@ Self-Driving Car Engineer Nanodegree Program
 ## Introduction
 In a group of four students we wrote ROS nodes to implement core functionality of the autonomous vehicle system for driving on a real track and in the udacity simulator, including traffic light detection, control, and waypoint following.
 
-![VideoSimulation](./VideoSimulation.gif) 
+The video below shows a short section of the outcome in the simulation recorded by our team lead Xiaogang Zhang: 
+
+![VideoSimulator](./VideoSimulator.gif) 
 
 ## The Team
 This is the project repo for the final project of the Udacity Self-Driving Car Nanodegree: Programming a Real Self-Driving Car. This is a collaboration between four team members:
