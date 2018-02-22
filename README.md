@@ -9,7 +9,7 @@ In a group of four students we wrote ROS nodes to implement core functionality o
 
 The video below shows a short section of the outcome in the simulation recorded by our team lead Xiaogang Zhang: 
 
-![VideoSimulator](./VideoSimulator.gif) 
+![VideoSimulator](imgs/VideoSimulator.gif) 
 
 ## The Team
 This is the project repo for the final project of the Udacity Self-Driving Car Nanodegree: Programming a Real Self-Driving Car. This is a collaboration between four team members:
